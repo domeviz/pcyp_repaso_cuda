@@ -3,3 +3,6 @@
 5645	8077	7307080214695514	CMakeFiles/repasoexamen_cuda.dir/cmake_device_link.obj	3135d08b413e21fa
 8077	8649	7307080220211839	repasoexamen_cuda.exe	fff3da662f2cd7df
 2	238	7307080241090498	build.ninja	71ce7d2ee8d8704b
+1	7887	7307080932572916	CMakeFiles/repasoexamen_cuda.dir/main.cu.obj	fd29baed1022a241
+7888	10870	7307080962484069	CMakeFiles/repasoexamen_cuda.dir/cmake_device_link.obj	3135d08b413e21fa
+10870	11283	7307080966002917	repasoexamen_cuda.exe	fff3da662f2cd7df
