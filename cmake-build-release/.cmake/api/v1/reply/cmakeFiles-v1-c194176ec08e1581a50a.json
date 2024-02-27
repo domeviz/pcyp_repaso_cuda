@@ -6,7 +6,10 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeSystem.cmake"
+		},
+		{
+			"path" : "conan_provider.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -20,7 +23,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeCUDACompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeCUDACompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -74,7 +77,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -85,12 +88,61 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-IntelLLVM-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-IntelLLVM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug",
+		"build" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-release",
 		"source" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda"
 	},
 	"version" : 

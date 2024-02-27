@@ -1,4 +1,5 @@
 # ninja log v5
-1	11976	7307076719186601	CMakeFiles/repasoexamen_cuda.dir/main.cu.obj	78c2a15f46e426f6
-11981	14913	7307076748831020	CMakeFiles/repasoexamen_cuda.dir/cmake_device_link.obj	3135d08b413e21fa
-14913	15606	7307076755578680	repasoexamen_cuda.exe	fff3da662f2cd7df
+2	5644	7307080190285852	CMakeFiles/repasoexamen_cuda.dir/main.cu.obj	fd29baed1022a241
+5645	8077	7307080214695514	CMakeFiles/repasoexamen_cuda.dir/cmake_device_link.obj	3135d08b413e21fa
+8077	8649	7307080220211839	repasoexamen_cuda.exe	fff3da662f2cd7df
+2	238	7307080241090498	build.ninja	71ce7d2ee8d8704b

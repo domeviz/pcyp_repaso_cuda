@@ -12,6 +12,12 @@
 # =============================================================================
 
 #############################################
+# localized /showIncludes string
+
+msvc_deps_prefix = Note: including file: 
+
+
+#############################################
 # Rule for compiling CUDA files.
 
 rule CUDA_COMPILER__repasoexamen_cuda_unscanned_Release

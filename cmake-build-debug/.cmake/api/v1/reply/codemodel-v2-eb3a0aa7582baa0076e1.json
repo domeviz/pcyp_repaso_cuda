@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.27"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Release",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "repasoexamen_cuda::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-repasoexamen_cuda-Release-727074ab4c9f45c12bcd.json",
+					"jsonFile" : "target-repasoexamen_cuda-Debug-e929be0bf4f1c3ac4f6e.json",
 					"name" : "repasoexamen_cuda",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-release",
+		"build" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug",
 		"source" : "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda"
 	},
 	"version" : 

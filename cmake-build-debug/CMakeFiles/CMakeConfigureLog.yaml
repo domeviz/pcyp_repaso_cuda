@@ -388,8 +388,8 @@ events:
     checks:
       - "Detecting CUDA compiler ABI info"
     directories:
-      source: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yovxw9"
-      binary: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yovxw9"
+      source: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9fvupl"
+      binary: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9fvupl"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "52"
       CMAKE_CUDA_FLAGS: "-D_WINDOWS -Xcompiler=\" /EHsc\""
@@ -400,18 +400,18 @@ events:
       variable: "CMAKE_CUDA_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yovxw9'
+        Change Dir: 'C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9fvupl'
         
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_c524f
-        [1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v12.3\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Ob0 -Od /RTC1" "--generate-code=arch=compute_52,code=[compute_52,sm_52]" -Xcompiler=-MDd -Xcompiler=-Zi   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.27\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_c524f.dir\\,-FS
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_8c8f3
+        [1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v12.3\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Ob0 -Od /RTC1" "--generate-code=arch=compute_52,code=[compute_52,sm_52]" -Xcompiler=-MDd -Xcompiler=-Zi   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.27\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_8c8f3.dir\\,-FS
         cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
         CMakeCUDACompilerABI.cu
         cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
         CMakeCUDACompilerABI.cu
         CMakeCUDACompilerABI.cu
         cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
-        tmpxft_000014b0_00000000-10_CMakeCUDACompilerABI.cudafe1.cpp
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c524f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_c524f.exe /implib:cmTC_c524f.lib /pdb:cmTC_c524f.pdb /version:0.0 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.3/lib/x64"  && cd ."
+        tmpxft_000050c8_00000000-10_CMakeCUDACompilerABI.cudafe1.cpp
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8c8f3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_8c8f3.exe /implib:cmTC_8c8f3.lib /pdb:cmTC_8c8f3.pdb /version:0.0 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.3/lib/x64"  && cd ."
         
       exitCode: 0
   -
@@ -434,18 +434,18 @@ events:
     message: |
       Parsed CUDA implicit link information:
         link line regex: [^( *|.*[/\\])(link\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yovxw9']
+        ignore line: [Change Dir: 'C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9fvupl']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_c524f]
-        ignore line: [[1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v12.3\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Ob0 -Od /RTC1" "--generate-code=arch=compute_52 code=[compute_52 sm_52]" -Xcompiler=-MDd -Xcompiler=-Zi   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.27\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_c524f.dir\\ -FS]
+        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_8c8f3]
+        ignore line: [[1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v12.3\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Ob0 -Od /RTC1" "--generate-code=arch=compute_52 code=[compute_52 sm_52]" -Xcompiler=-MDd -Xcompiler=-Zi   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.27\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_8c8f3.dir\\ -FS]
         ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
-        ignore line: [tmpxft_000014b0_00000000-10_CMakeCUDACompilerABI.cudafe1.cpp]
-        ignore line: [[2/2] cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c524f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c524f.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_c524f.exe /implib:cmTC_c524f.lib /pdb:cmTC_c524f.pdb /version:0.0 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.3/lib/x64"  && cd ."]
+        ignore line: [tmpxft_000050c8_00000000-10_CMakeCUDACompilerABI.cudafe1.cpp]
+        ignore line: [[2/2] cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8c8f3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8c8f3.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_8c8f3.exe /implib:cmTC_8c8f3.lib /pdb:cmTC_8c8f3.pdb /version:0.0 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.3/lib/x64"  && cd ."]
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -454,4 +454,72 @@ events:
         implicit fwks: []
       
       
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (enable_language)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files (x86)/Intel/oneAPI/compiler/latest/bin/icx.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Intel(R) oneAPI DPC++/C++ Compiler for applications running on Intel(R) 64, Version 2024.0.2 Build 20231213
+      Copyright (C) 1985-2023 Intel Corporation. All rights reserved.
+      
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      The CXX compiler identification is IntelLLVM, found in:
+        C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1155 (message)"
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (enable_language)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        Note: including file: ./foo.h
+        
+      Found prefix "Note: including file: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (enable_language)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jz055q"
+      binary: "C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jz055q"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "52"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jz055q'
+        
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_1a5c9
+        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_1a5c9.dir\\CMakeCXXCompilerABI.cpp.obj -QMF CMakeFiles\\cmTC_1a5c9.dir\\CMakeCXXCompilerABI.cpp.obj.d /FoCMakeFiles\\cmTC_1a5c9.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_1a5c9.dir\\ -c "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1a5c9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_1a5c9.dir\\CMakeCXXCompilerABI.cpp.obj  /debug /INCREMENTAL /Qoption,link,/subsystem:console   /link /out:cmTC_1a5c9.exe /implib:cmTC_1a5c9.lib /pdb:cmTC_1a5c9.pdb /version:0.0  && cd ."
+        
+      exitCode: 0
 ...
