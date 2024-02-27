@@ -1,0 +1,3 @@
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/repasoexamen_cuda.dir
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/repasoexamen_cuda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
